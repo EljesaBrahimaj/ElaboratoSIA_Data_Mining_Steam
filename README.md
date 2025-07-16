@@ -10,7 +10,6 @@ Utilizzando tecniche di data mining e analisi dei dati, il progetto esplora e vi
 
 Il dataset utilizzato è stato scaricato da Zenodo:  
 https://zenodo.org/records/7904761
-Il dataset contiene informazioni dettagliate su giochi, utenti e valutazioni, ed è stato pubblicato con licenza Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ## File principali
 
